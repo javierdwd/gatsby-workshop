@@ -620,3 +620,9 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+#gatsby-focus-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
